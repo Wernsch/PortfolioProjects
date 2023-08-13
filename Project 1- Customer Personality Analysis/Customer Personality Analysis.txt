@@ -1,0 +1,26 @@
+# Customer Personality Analysis | Customer Segmentation with Python
+
+The main content suggests that the goal of many companies today is to achieve satisfied and happy customers. To accomplish this, many businesses rely on targeted marketing. This strategy enables companies to retain or expand their customer base. Tech giants like Google and Meta Platforms (Facebook) have built their business models around targeted advertising, earning hundreds of billions of US dollars annually. The "Customer Personality Analysis" is a valuable method to identify a company's various customer groups. It uses data on different customer characteristics to understand and analyze their habits and preferences. This data includes attributes like age, educational level, marital status, children in the household, income, expenditure on various products, and responses to discount promotions or marketing campaigns.
+
+The project in the notebook focuses on customer segmentation. It involves preprocessing customer data to build a clustering model. Insights from the clustering are then derived and evaluated, supported by useful visualizations. The ultimate goal of the project is to address customers based on their behavior, habits, needs, and interests more individually, creating added value.
+Table of Contents
+
+1. Problem Definition & Objectives
+2. Data Collection
+3. Familiarizing with the Data
+        * Data Overview
+        * Data Cleaning
+        * Data Transformation
+4. Modelling
+        * Model Selection
+        * Setting up the Model
+        * Model Training
+5. Documentation of Results & Final Considerations
+        * Results
+        * Limitations & Outlook
+        * Conclusion
+6. References
+
+
+
+----> You can check out the project here: https://github.com/Wernsch/pda_customer_personality_analysis/blob/main/notebook_customer-personality-analysis.ipynb (it's in German). 
