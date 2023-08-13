@@ -36,5 +36,5 @@ With a background that spans approximately 8 years across various sectors, my jo
 
 Over the past few years, my focus shifted towards data analysis, culminating in the completion of a specialized certificate program and achieving proficiency in Python. My overarching goal is to bring my deep expertise to the forefront in roles that are centered around digitalization or are intrinsically tied to it. 
 
-Thank you.
+Have fun checking out the portfolio projects.
 
